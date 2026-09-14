@@ -17,7 +17,7 @@ const CATEGORIES = [
 // Placeholder data for the gallery. 
 // USER: Replace the 'src' values below with your actual image paths.
 const INITIAL_ITEMS = [
-  { id: 1, category: "Model Look", src: "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&q=80&w=600&h=800", alt: "Model Look 1", initialLikes: 1245 },
+  { id: 1, category: "Model Look", src: "[https://i.postimg.cc/FKKyB0Zv/IMG-20260914-154806-542.jpg](https://i.postimg.cc/FKKyB0Zv/IMG-20260914-154806-542.jpg)"", alt: "Model Look 1", initialLikes: 1245 },
   { id: 2, category: "Casual Look", src: "https://images.unsplash.com/photo-1515886657613-9f3515b0c78f?auto=format&fit=crop&q=80&w=600&h=800", alt: "Casual Look 1", initialLikes: 843 },
   { id: 3, category: "Daily Life", src: "https://images.unsplash.com/photo-1483985988355-763728e1935b?auto=format&fit=crop&q=80&w=600&h=800", alt: "Daily Life 1", initialLikes: 3400 },
   { id: 4, category: "Traditional look", src: "https://images.unsplash.com/photo-1510130387422-82ebd4faee47?auto=format&fit=crop&q=80&w=600&h=800", alt: "Traditional look 1", initialLikes: 2100 },
