@@ -1,4 +1,3 @@
-
 "use client";
 
 import { useState } from "react";
@@ -7,7 +6,7 @@ import { Play } from "lucide-react";
 import { cn } from "@/lib/utils";
 
 const INITIAL_ITEMS = [
-  { id: 1, category: "Model Look", src: "https://i.postimg.cc/FKKyB0Zv/IMG-20260914-154806-542.jpg", alt: "Model Look" },
+  { id: 1, category: "Model Look", src: "https://images.unsplash.com/photo-1529626455594-4ff0802cfb7e?auto=format&fit=crop&q=80&w=600&h=800", alt: "Model Look" },
   { id: 2, category: "Casual Look", src: "https://images.unsplash.com/photo-1515886657613-9f3515b0c78f?auto=format&fit=crop&q=80&w=600&h=800", alt: "Casual Look" },
   { id: 3, category: "Daily Life", src: "https://images.unsplash.com/photo-1483985988355-763728e1935b?auto=format&fit=crop&q=80&w=600&h=800", alt: "Daily Life" },
   { id: 4, category: "Traditional look", src: "https://images.unsplash.com/photo-1510130387422-82ebd4faee47?auto=format&fit=crop&q=80&w=600&h=800", alt: "Traditional look" },
